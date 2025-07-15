@@ -60,7 +60,7 @@ A React application (using Material UI) that provides the user interface for sho
 - `src/pages/ShortenerPage.jsx`: Page for creating short URLs.
 - `src/pages/StatsPage.jsx`: Page for viewing analytics.
 - `src/App.js`, `src/index.js`: Main React entry points.
-- `public/`: Static assets and HTML template.
+- `public/`: Static assets and HTML template (including images for project outcome).
 - `package.json`: Frontend dependencies and scripts.
 
 **Setup:**
@@ -68,14 +68,24 @@ A React application (using Material UI) that provides the user interface for sho
     ```
     npm install
     ```
-2. Create a `.env` file with the backend URL:
-    ```
-    REACT_APP_BACKEND_URL=http://localhost:4000
-    ```
-3. Start the frontend:
+2. Start the frontend:
     ```
     npm start
     ```
+
+---
+
+## Project Outcome
+
+Below are sample images from the project, located in the frontend's `public` folder:
+
+**Shortener Page:**
+
+![Shortener Page](public/shortener.png)
+
+**Stats Page:**
+
+![Stats Page](public/stats.png)
 
 ---
 
