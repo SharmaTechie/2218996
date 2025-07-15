@@ -81,11 +81,11 @@ Below are sample images from the project, located in the frontend's `public` fol
 
 **Shortener Page:**
 
-![Shortener Page](frontend-test-submission/public/shortener.png)
+![Shortener Page](frontend-test-submission/public/shortener.jpg)
 
 **Stats Page:**
 
-![Stats Page](frontend-test-submission/public/stats.png)
+![Stats Page](frontend-test-submission/public/stats.jpg)
 
 ---
 
